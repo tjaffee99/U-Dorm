@@ -1,0 +1,99 @@
+.33_9 { 
+	overflow:hidden;
+}.e33_9 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1728px;
+	height:1148px;
+	position:absolute;
+}.e46_513 { 
+	background-color:rgba(15.000000055879354, 34.00000177323818, 203.00000309944153, 1);
+	width:1728px;
+	height:184px;
+	position:absolute;
+	left:0px;
+	top:964px;
+}.e47_30 { 
+	color:rgba(15.000000055879354, 34.00000177323818, 203.00000309944153, 1);
+	width:1002px;
+	height:44px;
+	position:absolute;
+	left:192px;
+	top:317px;
+	font-family:Inter;
+	text-align:left;
+	font-size:42px;
+	letter-spacing:-3.5;
+}.e47_31 { 
+	color:rgba(0, 0, 0, 1);
+	width:1311px;
+	height:88px;
+	position:absolute;
+	left:192px;
+	top:462px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:-3.5;
+}.e47_32 { 
+	color:rgba(15.000000055879354, 34.00000177323818, 203.00000309944153, 1);
+	width:321px;
+	height:51px;
+	position:absolute;
+	left:192px;
+	top:622px;
+	font-family:Inter;
+	text-align:left;
+	font-size:42px;
+	letter-spacing:-3.5;
+}.e47_33 { 
+	color:rgba(0, 0, 0, 1);
+	width:1346px;
+	height:176px;
+	position:absolute;
+	left:192px;
+	top:716px;
+	font-family:Inter;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:-3.5;
+}.e46_510 { 
+	color:rgba(15.000000055879354, 34.00000177323818, 203.00000309944153, 1);
+	width:509px;
+	height:54px;
+	position:absolute;
+	left:635px;
+	top:200px;
+	font-family:Inter;
+	text-align:center;
+	font-size:64px;
+	letter-spacing:-3.5;
+}.e46_511 { 
+	color:rgba(255, 255, 255, 1);
+	width:186px;
+	height:44px;
+	position:absolute;
+	left:56px;
+	top:998px;
+	font-family:Inter;
+	text-align:center;
+	font-size:36px;
+	letter-spacing:-3.5;
+}.e46_524 { 
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:1488px;
+	top:1006px;
+	background-image:url(images/facebook.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e46_525 { 
+	width:100px;
+	height:100px;
+	position:absolute;
+	left:1608px;
+	top:1006px;
+	background-image:url(images/twitter.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
